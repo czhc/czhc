@@ -1,4 +1,4 @@
-### Overview 
+## Overview 
 
 `czhc` is a fullstack toolkit in for building applications in Ruby, JS, Python and some experimental modules in Solidity. 
 
@@ -18,7 +18,7 @@ You can get started by perusing and contributing to pinned repositories for comp
 
 - 🎨  Art
 
-### Resources
+## Resources
 
 You can use the following links to access and submit questions about code, AWS, book, and art recommendations.
 
