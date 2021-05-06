@@ -7,16 +7,11 @@
 Check out the pinned repositories for projects I'm actively working on. 
 I also recommend checking out the collection of AWS projects I've ran for customers: 
 
-* https://github.com/czhc/aurora-deep-dive
-* https://github.com/czhc/serverless-datalake-on-aws
-* https://github.com/czhc/ecs-lab
+* [Aurora deep dive](https://github.com/czhc/aurora-deep-dive)
+* [Serverles Analytics](https://github.com/czhc/serverless-datalake-on-aws)
+* [ECS](https://github.com/czhc/ecs-lab)
 
-or how I go about studying different tools like:
-
-* [artillery](https://github.com/czhc/artillery)
-* [swift](https://github.com/czhc/FizzBuzz)
-* [sails-js (Node)](https://github.com/czhc/demo-sails)
-* [padrino (Ruby)](https://github.com/czhc/padrino-exp) 
+or how I go about studying different tools like: [artillery](https://github.com/czhc/artillery), [swift](https://github.com/czhc/FizzBuzz), [sails-js (Node)](https://github.com/czhc/demo-sails) and [padrino (Ruby)](https://github.com/czhc/padrino-exp) 
 
 ### Dependencies
 
