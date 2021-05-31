@@ -27,7 +27,7 @@ or how I go about studying different tools like: [artillery](https://github.com/
 
 You can use the following links to access and submit questions about code, AWS development or working culture, reading, and art recommendations.
 
-* [Twitter @cedriczhchan](twitter.com/cedriczhchan)
+* [Twitter @czhc_](twitter.com/czhc_)
 
 
 <!--
