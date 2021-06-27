@@ -13,7 +13,7 @@ I also recommend checking out the collection of AWS workshops I have conducted a
 
 or how I go about studying different tools like: [artillery](https://github.com/czhc/artillery), [swift](https://github.com/czhc/FizzBuzz), [sails-js (Node)](https://github.com/czhc/demo-sails), [padrino (Ruby)](https://github.com/czhc/padrino-exp) and [solidity](https://github.com/czhc/solidity-intro)
 
-Tweet me @ [@czhc_](https://www.twitter.com/czhc_)
+🐦 @ [@czhc_](https://www.twitter.com/czhc_)
 
 
 <!--
