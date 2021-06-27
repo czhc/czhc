@@ -4,7 +4,7 @@
 
 ### Getting Started
 
-Check out the pinned repositories for projects I'm actively working on. 
+Actively working and studying web3 development @ [bookmarks](https://github.com/czhc/bookmarks).\
 I also recommend checking out the collection of AWS workshops I have conducted and documented. 
 
 * [Aurora deep dive](https://github.com/czhc/aurora-deep-dive)
