@@ -8,7 +8,7 @@
 
 🐦 ‎ me [@czhc_](https://www.twitter.com/czhc_)
 
-Previously **@AWS** with 8 Certified Specialist certifications in: Security, Databases, Data Analytics.\
+Previously **@AWS**. Certified Specialist for: Security, Databases, Data Analytics.\
 Checkout some of the workshops I used to run as a Solutions Architect
 
 * [Aurora Database deep dive](https://github.com/czhc/aurora-deep-dive)
