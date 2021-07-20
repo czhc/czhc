@@ -2,31 +2,15 @@
 
 `czhc` is a fullstack person building applications in Ruby, JS, Python and Solidity. 
 
-### Getting Started
+* Actively working and studying web3 development @ [Discount MBA](https://github.com/czhc/bookmarks).
+* Also protoyping a decentralized NFT-based charity platform @ [The KIND Project](https://github.com/czhc/thekindproject).
+* I also blog (as much as I can) and pin interesting readings @ [czhc.dev](https://czhc.dev)
 
-Actively working and studying web3 development @ [bookmarks](https://github.com/czhc/bookmarks).\
-I also recommend checking out the collection of AWS workshops I have conducted and documented. 
+🐦 ‎ me [@czhc_](https://www.twitter.com/czhc_)
 
-* [Aurora deep dive](https://github.com/czhc/aurora-deep-dive)
-* [Serverles Analytics](https://github.com/czhc/serverless-datalake-on-aws)
-* [ECS](https://github.com/czhc/ecs-lab)
+Previously **@AWS** with 8 Certified Specialist certification in: Security, Databases, Data Analytics.\
+Checkout some of the workshops I used to run as a Solutions Architect
 
-or how I go about studying different tools like: [artillery](https://github.com/czhc/artillery), [swift](https://github.com/czhc/FizzBuzz), [sails-js (Node)](https://github.com/czhc/demo-sails), [padrino (Ruby)](https://github.com/czhc/padrino-exp) and [solidity](https://github.com/czhc/solidity-intro)
-
-🐦 [@czhc_](https://www.twitter.com/czhc_)
-
-
-<!--
-**czhc/czhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Aurora Database deep dive](https://github.com/czhc/aurora-deep-dive)
+* [Serverles Analytics on AWS Glue, Athena and Quicksight](https://github.com/czhc/serverless-datalake-on-aws)
+* [Amazon ECS: Elastic Container Service](https://github.com/czhc/ecs-lab)
