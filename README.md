@@ -1,6 +1,6 @@
 ## Overview 
 
-`czhc` is a fullstack person building applications in Ruby, JS, Python and Solidity. 
+`czhc` is a fullstack person building applications in `rb`, `js`, `ts`, `py` and `sol`. 
 
 * Actively working and studying web3 development @ [Discount MBA](https://github.com/czhc/bookmarks).
 * Also protoyping a decentralized NFT-based charity platform @ [The KIND Project](https://github.com/czhc/thekindproject).
@@ -8,7 +8,7 @@
 
 🐦 ‎ me [@czhc_](https://www.twitter.com/czhc_)
 
-Previously **@AWS**. Certified Specialist for: Security, Databases, Data Analytics.\
+Previously **@AWS**. Certified Specialist for: `Security`, `Databases`, `Data Analytics`.\
 Checkout some of the workshops I used to run as a Solutions Architect
 
 * [Aurora Database deep dive](https://github.com/czhc/aurora-deep-dive)
