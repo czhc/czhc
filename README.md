@@ -6,8 +6,8 @@
 * Also protoyping a decentralized NFT-based charity platform @ [The KIND Project](https://github.com/czhc/thekindproject).
 * I also blog (as much as I can) and pin interesting readings @ [czhc.dev](https://czhc.dev)
 
-🐈‍⬛ ‎me [@czhc_](https://www.github.com/czhc_)
-🐦 ‎me [@czhc_](https://www.twitter.com/czhc_)
+🐈‍⬛ ‎me [@czhc_](https://www.github.com/czhc_) \
+🐦 ‎me [@czhc_](https://www.twitter.com/czhc_) \
 🦊 me [@czhc](https://gitlab.com/czhc)
 
 
