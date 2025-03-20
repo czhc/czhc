@@ -6,13 +6,10 @@
 * Also protoyping a decentralized NFT-based charity platform @ [The KIND Project](https://github.com/czhc/thekindproject).
 * I also blog (as much as I can) and pin interesting readings @ [czhc.dev](https://czhc.dev)
 
-🐈‍⬛ ‎me [@czhc](https://www.github.com/czhc) \
-🐦 ‎me [@czhc_](https://www.twitter.com/czhc_) \
-🦊 me [@czhc](https://gitlab.com/czhc)
-
 
 Previously **@AWS**. Certified Specialist for: `Security`, `Databases`, `Data Analytics`.\
-Checkout some of the workshops I used to run as a Solutions Architect
+
+Feel free to fork of the workshops I created as a Solutions Architect
 
 * [Aurora Database deep dive](https://github.com/czhc/aurora-deep-dive)
 * [Serverles Analytics on AWS Glue, Athena and Quicksight](https://github.com/czhc/serverless-datalake-on-aws)
